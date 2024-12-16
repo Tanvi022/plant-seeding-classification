@@ -32,10 +32,6 @@ pillow==8.4.0
 matplotlib==3.5.0
 scikit-learn==1.0.2
 
-
-Project Structure
-The project follows the following directory structure:
-How to Run the App
 Clone this repository:
 git clone https://github.com/yourusername/plant-seedling-classification.git
 cd plant-seedling-classification
